@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [moisessilva.com](moisessilva.com)
-
 - 📫 How to reach me **mogosilva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

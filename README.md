@@ -17,5 +17,4 @@
 
 
 <h3 align="center">Stats</h3>
-<a href="http://www.github.com/mogosilva"><img src="https://github-readme-stats.vercel.app/api?username=mogosilva&show_icons=true&theme=dracula" width="50%" alt="Moises Silva's GitHub stats" ></a>
-<a href="http://www.github.com/mogosilva"><img src-"http://github-readme-streak-stats.herokuapp.com?user=mogosilva&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" width="50%" alt="Moises Silva's GitHub streak"></a>
+<a href="http://www.github.com/mogosilva"><img src="https://github-readme-stats.vercel.app/api?username=mogosilva&show_icons=true&theme=dracula" width="50%" alt="Moises Silva's GitHub stats" ><img src="http://github-readme-streak-stats.herokuapp.com?user=mogosilva&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" width="50%" alt="Moises Silva's GitHub streak"></a>
